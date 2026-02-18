@@ -14,3 +14,7 @@ Swiftly: E-commerce & Services delivers a smarter, faster, and more engaging way
 ## 🛠️ Tech Stack
 - Flutter
 - Firebase
+- Node.js
+- Stripe
+- Figma
+- Google Map
