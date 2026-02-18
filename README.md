@@ -11,6 +11,11 @@ Users can enjoy daily games, vouchers, and rewards, personalize the app with dar
 
 Swiftly: E-commerce & Services delivers a smarter, faster, and more engaging way to shop and book services.
 
+## 📸 Screenshots
+  <img src="images/swiftly.png"/>
+  <img src="images/swiftly mockuups.png"/>
+
+
 ## 🛠️ Tech Stack
 - Flutter
 - Firebase
