@@ -10,3 +10,7 @@ The Video Ads section offers engaging, TikTok-style short videos that help users
 Users can enjoy daily games, vouchers, and rewards, personalize the app with dark mode, theme selection, and profile editing, and get instant support through a built-in Virtual Assistant. The assistant helps with order tracking, product recommendations, price comparisons, and app navigation.
 
 Swiftly: E-commerce & Services delivers a smarter, faster, and more engaging way to shop and book services.
+
+## 🛠️ Tech Stack
+- Flutter
+- Firebase
