@@ -13,7 +13,7 @@ Swiftly: E-commerce & Services delivers a smarter, faster, and more engaging way
 
 ## 📸 Screenshots
   <img src="images/swiftly.png"/>
-  <img src="images/swiftly mockuups.png"/>
+  <img src="images/swiftly mockups.png"/>
 
 
 ## 🛠️ Tech Stack
